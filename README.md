@@ -5,3 +5,9 @@ This is a UPS (**U**ninterruptible **P**ower **S**upply) for a Raspberry Pi boar
 ## Diagram
 
 ![](diagram.jpg)
+
+## PCB render
+
+![](Top.png)
+
+![](Back.png)
